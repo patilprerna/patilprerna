@@ -35,7 +35,7 @@
   <a href="https://leetcode.com/patilprerna/" style="text-decoration: none;">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-CC8800?style=flat&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://x.com/patilprerna" style="text-decoration: none;">
+  <a href="https://x.com/prernaa_patil" style="text-decoration: none;">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" />
   </a>
 </p>
