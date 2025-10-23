@@ -12,7 +12,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=patilprerna&theme=juicyfresh&no-bg=true" />
 
-
+## 👨‍💻  &nbsp;About Me 
+Hello Friends <br>
+I’m currently learning **Data Structure and Algorithm, Devops and The world of AI**
 ## 👁️ &nbsp; Visitor Count
 <p align="center">
   <img src="https://count.getloli.com/get/@patilprerna?theme=rule34" alt="Visitor Count" />
