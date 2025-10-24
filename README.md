@@ -14,7 +14,8 @@
 
 ## 👨‍💻  &nbsp;About Me 
 Hello Friends <br>
-I’m currently learning **Data Structure and Algorithm, Devops and The world of AI**
+I'm Prerna 3rd-year B.Tech AIML student who loves building cool stuff with code, **exploring AI**, and **learning new tech every day**<br>
+currently learning **Data Structure and Algorithm, Devops, Java and The world of AI**
 ## 👁️ &nbsp; Visitor Count
 <p align="center">
   <img src="https://count.getloli.com/get/@patilprerna?theme=rule34" alt="Visitor Count" />
