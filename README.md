@@ -199,13 +199,13 @@ currently learning **Data Structure and Algorithm, Devops, Java and Exploring Th
       <img src="https://octo-ring.com/static/img/widget/top.png" width="100%" alt="Octo Ring logo">
     </a>
     <br>
-    <a href="https://octo-ring.com/p/pushpa3037/prev">
+    <a href="https://octo-ring.com/p/patilprerna/prev">
       <img src="https://octo-ring.com/static/img/widget/prev.png" width="32%" alt="previous">
     </a>
-    <a href="https://octo-ring.com/p/pushpa3037/random">
+    <a href="https://octo-ring.com/p/patilprerna/random">
       <img src="https://octo-ring.com/static/img/widget/random.png" width="32%" alt="random">
     </a>
-    <a href="https://octo-ring.com/p/pushpa3037/next">
+    <a href="https://octo-ring.com/p/patilprerna/next">
       <img src="https://octo-ring.com/static/img/widget/next.png" width="32%" alt="next">
     </a>
     <br>
